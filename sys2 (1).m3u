@@ -1,0 +1,1111 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 ,TVP 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227463&extension=ts&play_token=fBYWeGdeYc
+#EXTINF:-1 , TVP 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563255&extension=ts&play_token=LyZzGSKrdz
+#EXTINF:-1 , TVP 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227462&extension=ts&play_token=9ey5lmXAR5
+#EXTINF:-1 , TVP 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563256&extension=ts&play_token=RpKEf2vVuj
+#EXTINF:-1 , TVP 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563257&extension=ts&play_token=1P6liNAg9e
+#EXTINF:-1 , TVP 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227461&extension=ts&play_token=0Fd7fWlKr5
+#EXTINF:-1 , POLSAT FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227455&extension=ts&play_token=xICBfCRVWJ
+#EXTINF:-1 , POLSAT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563262&extension=ts&play_token=tcI789ecIW
+#EXTINF:-1 , POLSAT 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227454&extension=ts&play_token=mX5ouILXDH
+#EXTINF:-1 , POLSAT 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563263&extension=ts&play_token=HFbcg1QqlD
+#EXTINF:-1 , TVN FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227452&extension=ts&play_token=0I0ufWoSr6
+#EXTINF:-1 , TVN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563265&extension=ts&play_token=DsvpSvOlY9
+#EXTINF:-1 , ITVN FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724361&extension=ts&play_token=NxebcrA9oK
+#EXTINF:-1 , ITVN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724362&extension=ts&play_token=JNPfnme2C7
+#EXTINF:-1 , ITVN EXTRA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724363&extension=ts&play_token=3h3VopjwX3
+#EXTINF:-1 , TVN 7 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227451&extension=ts&play_token=gENHmhljIA
+#EXTINF:-1 , TVN 7 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563266&extension=ts&play_token=6fGaIBrfda
+#EXTINF:-1 , TVN STYLE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227352&extension=ts&play_token=L07Esdb2OR
+#EXTINF:-1 , TVN STYLE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563279&extension=ts&play_token=wV1dvEOV35
+#EXTINF:-1 , TVN TURBO FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227402&extension=ts&play_token=277aEA0BgL
+#EXTINF:-1 , TVN TURBO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563274&extension=ts&play_token=3YAKYQGKjY
+#EXTINF:-1 , TTV FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227449&extension=ts&play_token=JL8Ft2Fili
+#EXTINF:-1 , TTV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724371&extension=ts&play_token=E6G997oZYW
+#EXTINF:-1 , TV4 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227459&extension=ts&play_token=vKn1TVBYa1
+#EXTINF:-1 , TV4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563259&extension=ts&play_token=CySpY60lJZ
+#EXTINF:-1 , TV PULS FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227448&extension=ts&play_token=bWftABxSF1
+#EXTINF:-1 , TV PULS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563268&extension=ts&play_token=uiNwBDbtb8
+#EXTINF:-1 , TV PULS 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563275&extension=ts&play_token=QcwD0ydY83
+#EXTINF:-1 , TV PULS 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227391&extension=ts&play_token=SwSrw1izRU
+#EXTINF:-1 , POLSAT CAFE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227359&extension=ts&play_token=khMfxjc5q3
+#EXTINF:-1 , POLSAT CAFE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563276&extension=ts&play_token=aCEijBfB9i
+#EXTINF:-1 , POLSAT PLAY FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227358&extension=ts&play_token=Wu7SJx9E1z
+#EXTINF:-1 , POLSAT PLAY HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563277&extension=ts&play_token=plfZITz1u6
+#EXTINF:-1 , POLSAT RODZINA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563269&extension=ts&play_token=LBIZDwyoqZ
+#EXTINF:-1 , POLSAT RODZINA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227447&extension=ts&play_token=p58AFqHVdW
+#EXTINF:-1 , POLSAT GAMES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724370&extension=ts&play_token=h97aB0mqPI
+#EXTINF:-1 , TV6 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227457&extension=ts&play_token=gHqqlXNBXB
+#EXTINF:-1 , TV6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563260&extension=ts&play_token=tcCB3oyEzp
+#EXTINF:-1 , TVP FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227464&extension=ts&play_token=t6fWqjvaTD
+#EXTINF:-1 , TVP HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563254&extension=ts&play_token=hv5R7ytzoc
+#EXTINF:-1 , TVP KOBIETA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724372&extension=ts&play_token=EurInDL2bq
+#EXTINF:-1 , TVP ROZRYWKA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227367&extension=ts&play_token=GTcc26r0hF
+#EXTINF:-1 , FOOD NETWORK HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724373&extension=ts&play_token=bYMf8cFrUU
+#EXTINF:-1 , CANAL+ KUCHNIA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724374&extension=ts&play_token=GGQygvQJQb
+#EXTINF:-1 , CANAL+ DOMO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724375&extension=ts&play_token=qw3BMHd8ce
+#EXTINF:-1 , HGTV FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724376&extension=ts&play_token=38CB4BRYjy
+#EXTINF:-1 , HGTV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724377&extension=ts&play_token=QcsISherPy
+#EXTINF:-1 , HOME TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724378&extension=ts&play_token=E5e1ZQ3hoC
+#EXTINF:-1 , ACTIVE FAMILY HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724379&extension=ts&play_token=vtVDzmTnBn
+#EXTINF:-1 , KABARET TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724380&extension=ts&play_token=IUZwS8vbgE
+#EXTINF:-1 , ANTENA TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724381&extension=ts&play_token=0teGC04Je5
+#EXTINF:-1 , XTREME TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724382&extension=ts&play_token=2Yf3F8Kh9u
+#EXTINF:-1 , REMONTY TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724383&extension=ts&play_token=nhu7qtxCYx
+#EXTINF:-1 , TLC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724384&extension=ts&play_token=1fbSDvPrQn
+#EXTINF:-1 , SUPER POLSAT FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563264&extension=ts&play_token=viO1eoeTRG
+#EXTINF:-1 , SUPER POLSAT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227453&extension=ts&play_token=33yiKeU51F
+#EXTINF:-1 , WP HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724385&extension=ts&play_token=1nuT3lVICO
+#EXTINF:-1 , ZOOM TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724386&extension=ts&play_token=brnqTOuVwb
+#EXTINF:-1 , E! ENTERTAINMENT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724387&extension=ts&play_token=UO9tl2duDs
+#EXTINF:-1 , NOWA TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724388&extension=ts&play_token=mfjhge9X0v
+#EXTINF:-1 , TVP KULTURA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724390&extension=ts&play_token=HhsDr9GIQv
+#EXTINF:-1 , TVP KULTURA 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724391&extension=ts&play_token=xKEFhTqqz8
+#EXTINF:-1 , TVP POLONIA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227460&extension=ts&play_token=qH7UqCguP7
+#EXTINF:-1 , TVP POLONIA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563258&extension=ts&play_token=AzpGYtOcY1
+#EXTINF:-1 , POLONIA 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227456&extension=ts&play_token=LwBe8HzV6Q
+#EXTINF:-1 , POLONIA 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563261&extension=ts&play_token=mVearnfEtd
+#EXTINF:-1 , 13.TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724392&extension=ts&play_token=1iPOQiFXfH
+#EXTINF:-1 , TELE 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724393&extension=ts&play_token=sW7ajVRohk
+#EXTINF:-1 , TBN POLAND FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227370&extension=ts&play_token=Uv4lDmj7u9
+#EXTINF:-1 , TBN POLSKA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724394&extension=ts&play_token=bBgV0RgMjS
+#EXTINF:-1 , TVC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724395&extension=ts&play_token=ZSMxAvpJ2G
+#EXTINF:-1 , TVC SUPER HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724396&extension=ts&play_token=hUmBzRKADN
+#EXTINF:-1 , POGODA24 TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724397&extension=ts&play_token=NpoizAjXmB
+#EXTINF:-1 , TV TRWAM HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724398&extension=ts&play_token=samoAa9EhM
+#EXTINF:-1 , METRO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724389&extension=ts&play_token=in3RykQaxk
+#EXTINF:-1 , EWTN POLSKA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724399&extension=ts&play_token=1qbxOiZ3U9
+#EXTINF:-1 , CTV - DLA CIEBIE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724400&extension=ts&play_token=iRqQeesH4a
+#EXTINF:-1 , TVN 24 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227282&extension=ts&play_token=gHqnoPT8Ip
+#EXTINF:-1 , TVN 24 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563283&extension=ts&play_token=O2GBrWGjoc
+#EXTINF:-1 , TVN24 BIZ FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227281&extension=ts&play_token=22GHobQ3zX
+#EXTINF:-1 , TVN24 BIZ HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563284&extension=ts&play_token=POaKXV5Eaw
+#EXTINF:-1 , TV REPUBLIKA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227277&extension=ts&play_token=7oc2IRKvtd
+#EXTINF:-1 , TV REPUBLIKA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563288&extension=ts&play_token=JkTHzDMcrz
+#EXTINF:-1 , POLSAT NEWS FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227280&extension=ts&play_token=sR5XFj7s5Z
+#EXTINF:-1 , POLSAT NEWS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563285&extension=ts&play_token=qZ5MFPuc0M
+#EXTINF:-1 , POLSAT NEWS 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227279&extension=ts&play_token=7fxHHkti0G
+#EXTINF:-1 , POLSAT NEWS 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563286&extension=ts&play_token=ivxVoYD94p
+#EXTINF:-1 , POLSAT NEWS POLITYKA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724401&extension=ts&play_token=HFrvNtZWqh
+#EXTINF:-1 , WYDARZENIA 24 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563287&extension=ts&play_token=NmKIOjUYh6
+#EXTINF:-1 , TVP INFO FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227275&extension=ts&play_token=tmaDGtAIG4
+#EXTINF:-1 , TVP INFO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563290&extension=ts&play_token=eXe7Bt193B
+#EXTINF:-1 , WPOLSCE 24 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=227276&extension=ts&play_token=HBX4ZiSKHp
+#EXTINF:-1 , WPOLSCE 24 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1563289&extension=ts&play_token=Apsz61Rocl
+#EXTINF:-1 , ECHO 24 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724402&extension=ts&play_token=xrQuLGkb4x
+#EXTINF:-1 , SUPER EXPRESS TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724403&extension=ts&play_token=ORDal6aJzr
+#EXTINF:-1 , NEWS 24 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724404&extension=ts&play_token=66I5A0CRO9
+#EXTINF:-1 , BIZNES 24 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724405&extension=ts&play_token=S9jgS4KTmD
+#EXTINF:-1 , TV BIZNESOWA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724406&extension=ts&play_token=0iY4xLJRvA
+#EXTINF:-1 , TVP PARLAMENT - SENAT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1724408&extension=ts&play_token=LhlAiGDMby
+#EXTINF:-1 , CANAL+ PREMIUM FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728810&extension=ts&play_token=OECPannNAy
+#EXTINF:-1 , CANAL+ PREMIUM HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728811&extension=ts&play_token=Mk1Koz9ekd
+#EXTINF:-1 , CANAL+ 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728812&extension=ts&play_token=gEbmuEvav5
+#EXTINF:-1 , CANAL+ FILM FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728814&extension=ts&play_token=nJTIIsOe2A
+#EXTINF:-1 , CANAL+ FILM HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728815&extension=ts&play_token=CDrcZTHE5Y
+#EXTINF:-1 , CANAL+ 360 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728816&extension=ts&play_token=3S64wKvQTL
+#EXTINF:-1 , CANAL+ 360 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728817&extension=ts&play_token=EsSzQqqeis
+#EXTINF:-1 , CANAL+ SERIALE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728818&extension=ts&play_token=WfdNdfcwRq
+#EXTINF:-1 , CANAL+ SERIALE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728819&extension=ts&play_token=QCW5AgxHIR
+#EXTINF:-1 , HBO FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728820&extension=ts&play_token=GgOnX8Jwsq
+#EXTINF:-1 , HBO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728821&extension=ts&play_token=cTaxUo0d4J
+#EXTINF:-1 , HBO 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728822&extension=ts&play_token=0nWiiWcvFh
+#EXTINF:-1 , HBO 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728823&extension=ts&play_token=t9MTau4ZmK
+#EXTINF:-1 , HBO 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728824&extension=ts&play_token=UsDUKbD3TO
+#EXTINF:-1 , HBO 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728825&extension=ts&play_token=gJEBMXQefc
+#EXTINF:-1 , CINEMAX FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728826&extension=ts&play_token=UNzww23cIi
+#EXTINF:-1 , CINEMAX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728827&extension=ts&play_token=GSjIpVkqwE
+#EXTINF:-1 , CINEMAX 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728828&extension=ts&play_token=0yC2q7jGhr
+#EXTINF:-1 , CINEMAX 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728829&extension=ts&play_token=MSHKv7eSPT
+#EXTINF:-1 , FILMBOX PREMIUM FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728830&extension=ts&play_token=T9zaRhz2tl
+#EXTINF:-1 , FILMBOX PREMIUM HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728831&extension=ts&play_token=aoe5j1Rh1f
+#EXTINF:-1 , FILMBOX EXTRA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728832&extension=ts&play_token=xEY9NBUbUx
+#EXTINF:-1 , FILMBOX EXTRA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728833&extension=ts&play_token=MDoe70wAPx
+#EXTINF:-1 , FILMBOX ACTION FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728836&extension=ts&play_token=UukTUCQM7y
+#EXTINF:-1 , FILMBOX ACTION
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728837&extension=ts&play_token=AVgtvnqBuV
+#EXTINF:-1 , FILMBOX FAMILY FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728834&extension=ts&play_token=ld6wPGK7jx
+#EXTINF:-1 , FILMBOX FAMILY
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728835&extension=ts&play_token=uT8U5Ycofy
+#EXTINF:-1 , FILMBOX ARTHOUSE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728838&extension=ts&play_token=bXGTxX2aJP
+#EXTINF:-1 , FILMBOX ARTHOUSE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728839&extension=ts&play_token=UUa0DybN1A
+#EXTINF:-1 , AXN FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728840&extension=ts&play_token=qpk5kpWoQK
+#EXTINF:-1 , AXN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728841&extension=ts&play_token=IPyP6Sy6FG
+#EXTINF:-1 , AXN SPIN FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728842&extension=ts&play_token=xZPQaduDoC
+#EXTINF:-1 , AXN SPIN FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728843&extension=ts&play_token=XC1zhSKmHH
+#EXTINF:-1 , AXN WHITE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728846&extension=ts&play_token=sBag1lA820
+#EXTINF:-1 , AXN WHITE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728847&extension=ts&play_token=ZxxbzY20j6
+#EXTINF:-1 , AXN BLACK FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728844&extension=ts&play_token=Hor3wsWtCU
+#EXTINF:-1 , AXN BLACK HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728845&extension=ts&play_token=PGdFQIjHlx
+#EXTINF:-1 , TVN Fabula FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728848&extension=ts&play_token=nHmP43rYCg
+#EXTINF:-1 , POLSAT FILM FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728849&extension=ts&play_token=yxulet4XlW
+#EXTINF:-1 , POLSAT FILM 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728850&extension=ts&play_token=mw6WMhcYIC
+#EXTINF:-1 , POLSAT SERIALE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728868&extension=ts&play_token=yN2T0RXojN
+#EXTINF:-1 , SKYSHOWTIME 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728851&extension=ts&play_token=fkCHTMvqBn
+#EXTINF:-1 , SKYSHOWTIME 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728852&extension=ts&play_token=bjGyrFx4kD
+#EXTINF:-1 , PARAMOUNT CHANNEL FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728853&extension=ts&play_token=10Nnk4r08C
+#EXTINF:-1 , WARNER TV FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728854&extension=ts&play_token=2tnhGZTpUt
+#EXTINF:-1 , EPIC DRAMA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728855&extension=ts&play_token=sIHewTkUgH
+#EXTINF:-1 , STOPKLATKA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728856&extension=ts&play_token=CAex3MQheb
+#EXTINF:-1 , AMC FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728857&extension=ts&play_token=jkJdaETzyX
+#EXTINF:-1 , SUNDANCE TV FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728858&extension=ts&play_token=cilWudbLs4
+#EXTINF:-1 , SCIFI UNIVERSAL FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728859&extension=ts&play_token=hhXgDfB1Nm
+#EXTINF:-1 , 13 ULICA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728860&extension=ts&play_token=vyxH42sjnK
+#EXTINF:-1 , ALE KINO+ FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728865&extension=ts&play_token=FOIpo3xU0U
+#EXTINF:-1 , FX COMEDY FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728862&extension=ts&play_token=nanWETx54Q
+#EXTINF:-1 , FX FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728861&extension=ts&play_token=MfByoP2gea
+#EXTINF:-1 , COMEDY CENTRAL FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728863&extension=ts&play_token=n2K3lqmsiZ
+#EXTINF:-1 , COMEDY CENTRAL EXTRA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728864&extension=ts&play_token=D4EuxF2FSx
+#EXTINF:-1 , NOVELA TV FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728870&extension=ts&play_token=N9n780Oy9t
+#EXTINF:-1 , NOVELAS+ FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728871&extension=ts&play_token=54YKMFUtX8
+#EXTINF:-1 , KINO TV FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728866&extension=ts&play_token=vweYh80G5A
+#EXTINF:-1 , KINO POLSKA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728867&extension=ts&play_token=iTCZdRaOrV
+#EXTINF:-1 , ROMANCE TV FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728874&extension=ts&play_token=YEuoWeSBD2
+#EXTINF:-1 , TOP MOVIES POLSKA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728877&extension=ts&play_token=ij44vIQAvy
+#EXTINF:-1 , TVP SERIALE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728869&extension=ts&play_token=pFLwlKALts
+#EXTINF:-1 , VIDOCTV FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728876&extension=ts&play_token=gJj6oTHhpS
+#EXTINF:-1 , BOLLYWOOD FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728873&extension=ts&play_token=4ZSRKa9V6T
+#EXTINF:-1 , FILMAX FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728875&extension=ts&play_token=90FbvMycaQ
+#EXTINF:-1 , POLSAT VOD 202 - ELIKSIR MŁODOŚCI FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728882&extension=ts&play_token=BQ08DZaT2p
+#EXTINF:-1 , POLSAT VOD 203 - CHRZCINY FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728883&extension=ts&play_token=TX19XIp5aQ
+#EXTINF:-1 , POLSAT VOD 204 -  DZIEŃ SĄSIADA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728884&extension=ts&play_token=bEJJ3PIFkD
+#EXTINF:-1 ,DOBRY BOŻE! FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728885&extension=ts&play_token=I8f898O710
+#EXTINF:-1 , POLSAT VOD 206 -  MROCZNY DOM FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728886&extension=ts&play_token=FAEaUWcYbk
+#EXTINF:-1 , BJGTJME DARMOWE FILMY FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728879&extension=ts&play_token=kqq6M4xw0u
+#EXTINF:-1 , GRJNGO WESTERNY FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728878&extension=ts&play_token=GIGPPC4gYW
+#EXTINF:-1 , 24/7 OD NETFLIX 1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729387&extension=ts&play_token=9kCR17K4cw
+#EXTINF:-1 , 24/7 OD NETFLIX 2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729388&extension=ts&play_token=1i55diQxj3
+#EXTINF:-1 , 24/7 OD NETFLIX 3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729389&extension=ts&play_token=MP5wDImim8
+#EXTINF:-1 , 24/7 OD NETFLIX 4
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729390&extension=ts&play_token=WXLgVylZVo
+#EXTINF:-1 , 24/7 OD NETFLIX 5
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729391&extension=ts&play_token=Nfe6SQySwz
+#EXTINF:-1 , 24/7 OD NETFLIX 6
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729392&extension=ts&play_token=Pr6j0C5Xy6
+#EXTINF:-1 , 24/7 OD NETFLIX 7
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729393&extension=ts&play_token=ls2iix36mA
+#EXTINF:-1 , 24/7 OD NETFLIX 8
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729394&extension=ts&play_token=MMQ3TmCjYf
+#EXTINF:-1 , 24/7 OD NETFLIX 9
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729395&extension=ts&play_token=HYEpRxCccJ
+#EXTINF:-1 , 24/7 OD NETFLIX 10
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729396&extension=ts&play_token=Bs38uKMERa
+#EXTINF:-1 , 24/7 OD NETFLIX 11
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729397&extension=ts&play_token=KoSIpzwkuS
+#EXTINF:-1 , 24/7 OD NETFLIX 12
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729398&extension=ts&play_token=vvepvcDH0a
+#EXTINF:-1 , 24/7 OD NETFLIX 13
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729399&extension=ts&play_token=yyxEEMjk5A
+#EXTINF:-1 , 24/7 OD NETFLIX 14
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729400&extension=ts&play_token=UfgyTkYgxM
+#EXTINF:-1 , 24/7 OD NETFLIX 15
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729401&extension=ts&play_token=NHq8hs0X3O
+#EXTINF:-1 , 24/7 OD NETFLIX 16
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729402&extension=ts&play_token=rIdGkfg553
+#EXTINF:-1 , 24/7 OD DISNEY+ TOP 10
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729427&extension=ts&play_token=vyEYyJiTNJ
+#EXTINF:-1 , 24/7 OD DISNEY+ 1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729428&extension=ts&play_token=celi9tSzaU
+#EXTINF:-1 , 24/7 OD DISNEY+ 2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729429&extension=ts&play_token=MAHKXlE13C
+#EXTINF:-1 , 24/7 OD DISNEY+ 3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729430&extension=ts&play_token=rbbjtEzOe2
+#EXTINF:-1 , 24/7 OD DISNEY+ 4
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729431&extension=ts&play_token=d16rBhumTy
+#EXTINF:-1 , 24/7 OD DISNEY+ 5
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729432&extension=ts&play_token=w4dWLjtlhS
+#EXTINF:-1 , 24/7 OD DISNEY+ 6
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729433&extension=ts&play_token=FsOiDD5Pid
+#EXTINF:-1 , 24/7 OD DISNEY+ 7
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729434&extension=ts&play_token=IHr2qeXyBA
+#EXTINF:-1 , 24/7 OD HBO MAX TOP 10
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729455&extension=ts&play_token=vqWLiTtXh6
+#EXTINF:-1 , 24/7 OD HBO MAX 1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729456&extension=ts&play_token=ltcPzThkVr
+#EXTINF:-1 , 24/7 OD HBO MAX 2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729457&extension=ts&play_token=tgga22tARA
+#EXTINF:-1 , 24/7 OD HBO MAX 3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729458&extension=ts&play_token=3YDCJlvnRi
+#EXTINF:-1 , 24/7 OD HBO MAX 4
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729459&extension=ts&play_token=HJ6VtIPqvP
+#EXTINF:-1 , 24/7 OD HBO MAX 5
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729460&extension=ts&play_token=YTPGVCy8W2
+#EXTINF:-1 , 24/7 OD HBO MAX 6
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729461&extension=ts&play_token=pGO698xUxk
+#EXTINF:-1 , 24/7 OD HBO MAX 7
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729462&extension=ts&play_token=0cvLt3vWI8
+#EXTINF:-1 , 24/7 OD HBO MAX 8
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729463&extension=ts&play_token=mUr99hWD8E
+#EXTINF:-1 , PLANETE+ FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728892&extension=ts&play_token=gqBrqwUUMx
+#EXTINF:-1 , NATIONAL GEOGRAPHIC FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728897&extension=ts&play_token=R6nmzoskdc
+#EXTINF:-1 , NAT GEO WILD FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728899&extension=ts&play_token=iVS0ZWCmUE
+#EXTINF:-1 , NAT GEO WILD HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728900&extension=ts&play_token=5mJVKdQ6XA
+#EXTINF:-1 , NAT GEO PEOPLE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728901&extension=ts&play_token=uwC1dEhbco
+#EXTINF:-1 , DISCOVERY CHANNEL FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728903&extension=ts&play_token=YMcuS3dq3v
+#EXTINF:-1 , DISCOVERY CHANNEL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728904&extension=ts&play_token=pjEqokEumM
+#EXTINF:-1 , DISCOVERY SCIENCE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728905&extension=ts&play_token=6TIDVgZ192
+#EXTINF:-1 , DISCOVERY LIFE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728907&extension=ts&play_token=MgcsT7A9tE
+#EXTINF:-1 , DISCOVERY HISTORIA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728906&extension=ts&play_token=BO4JYr1i0T
+#EXTINF:-1 , INVESTIGATION DISCOVERY FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728914&extension=ts&play_token=My9PQCKUNe
+#EXTINF:-1 , DTX fhd
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728908&extension=ts&play_token=YVz0FP2Qhb
+#EXTINF:-1 , HISTORY FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728909&extension=ts&play_token=gCdgQMftL5
+#EXTINF:-1 , HISTORY 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728910&extension=ts&play_token=IWAOHeW9PA
+#EXTINF:-1 , ANIMAL PLANET FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728902&extension=ts&play_token=W71RoUvIxY
+#EXTINF:-1 , BBC BRIT FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728894&extension=ts&play_token=MVFRLhBmZx
+#EXTINF:-1 , BBC EARTH FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728895&extension=ts&play_token=iMb6sFeGQ3
+#EXTINF:-1 , BBC FIRST FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728893&extension=ts&play_token=xpHXUOL28S
+#EXTINF:-1 , BBC LIFESTYLE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728896&extension=ts&play_token=R3fBNQWI5N
+#EXTINF:-1 , TVP HISTORIA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728911&extension=ts&play_token=sWMN7ws1Xe
+#EXTINF:-1 , TVP HISTORIA 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728912&extension=ts&play_token=81LbI7RjIj
+#EXTINF:-1 , TVP DOKUMENT FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728917&extension=ts&play_token=zY8jbAzEJi
+#EXTINF:-1 , TVP NAUKA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728913&extension=ts&play_token=sKjWhc8W0U
+#EXTINF:-1 , POLSAT X FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728919&extension=ts&play_token=BzC9pkBZEi
+#EXTINF:-1 , POLSAT VIASAT EXPLORE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728922&extension=ts&play_token=fqx7q9noRD
+#EXTINF:-1 , POLSAT VIASAT HISTORY FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728923&extension=ts&play_token=qn5mGUQwiA
+#EXTINF:-1 , POLSAT VIASAT NATURE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728924&extension=ts&play_token=puajuUaawW
+#EXTINF:-1 , POLSAT DOKU FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728918&extension=ts&play_token=BgWHhFXHRn
+#EXTINF:-1 , POLSAT REALITY FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728920&extension=ts&play_token=Z7Y0Jzqx9C
+#EXTINF:-1 , CANAL+ DOKUMENT FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728916&extension=ts&play_token=CzuWaXtpJH
+#EXTINF:-1 , CI POLSAT FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728915&extension=ts&play_token=7KcWY00M6Y
+#EXTINF:-1 , DOCUBOX FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728921&extension=ts&play_token=QzEAbB59ZX
+#EXTINF:-1 , ADVENTURE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728928&extension=ts&play_token=Am7GIBKrhT
+#EXTINF:-1 , FOKUS TV FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728927&extension=ts&play_token=Vnca5L7bbI
+#EXTINF:-1 , MOCONOMY FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728930&extension=ts&play_token=ClVO5WfgFk
+#EXTINF:-1 , ROYAL WORLD TV FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728932&extension=ts&play_token=QRPpDzPGr6
+#EXTINF:-1 , STUDIOMED TV FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728931&extension=ts&play_token=xWZzgIoclw
+#EXTINF:-1 , TRAVEL CHANNEL FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728926&extension=ts&play_token=uHvpvOAzIf
+#EXTINF:-1 , VIASAT TRUE CRIME FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728925&extension=ts&play_token=TeMLqsAmOh
+#EXTINF:-1 , WATER PLANET FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728929&extension=ts&play_token=nElEEQGXuU
+#EXTINF:-1 , NICKELODEON FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728949&extension=ts&play_token=XYvpngKIVg
+#EXTINF:-1 , NICKTOONS FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728948&extension=ts&play_token=925ZpGepUu
+#EXTINF:-1 , NICK JR. FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728951&extension=ts&play_token=em0A5mtOfE
+#EXTINF:-1 , TEENNICK FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728950&extension=ts&play_token=O5wY6ZwaOV
+#EXTINF:-1 , DISNEY XD FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728945&extension=ts&play_token=MqApD2J9aj
+#EXTINF:-1 , DISNEY CHANNEL FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728944&extension=ts&play_token=zlrqQFA3z4
+#EXTINF:-1 , DISNEY JUNIOR FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728946&extension=ts&play_token=u6TC0xwIKP
+#EXTINF:-1 , CARTOON NETWORK FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728943&extension=ts&play_token=1QxOfkveJV
+#EXTINF:-1 , CARTOONITO FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728947&extension=ts&play_token=N5YNjKa7pl
+#EXTINF:-1 , BABY TV FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728953&extension=ts&play_token=Bw1cW9CbNZ
+#EXTINF:-1 , BABY TV PL FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728954&extension=ts&play_token=jE8IVYjMQb
+#EXTINF:-1 , BBC CBEEBIES FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728940&extension=ts&play_token=SXLXiC1Lzr
+#EXTINF:-1 , TELETOON+ FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728941&extension=ts&play_token=avAIcxjq39
+#EXTINF:-1 , 2X2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728961&extension=ts&play_token=z1R8QJbHef
+#EXTINF:-1 , 4FUN KIDS FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728963&extension=ts&play_token=sDLsqg7EKv
+#EXTINF:-1 , BOBASY TV FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728965&extension=ts&play_token=5Qe32rQf6w
+#EXTINF:-1 , DA VINCI FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728958&extension=ts&play_token=x66P88uLwR
+#EXTINF:-1 , DUCK TV FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728959&extension=ts&play_token=ma6QCcVhRe
+#EXTINF:-1 , DUCK TV PLUS FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728960&extension=ts&play_token=9ydyJdq8LM
+#EXTINF:-1 , MINIMINI+ FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728942&extension=ts&play_token=znDTNkAyIO
+#EXTINF:-1 , POLSAT JIMJAM FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728952&extension=ts&play_token=pEITOTKJLX
+#EXTINF:-1 , TOP KIDS FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728962&extension=ts&play_token=1NfQ4BVpvf
+#EXTINF:-1 , TVP ABC 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728956&extension=ts&play_token=JsSbpWsEgf
+#EXTINF:-1 , TVP ABC FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728955&extension=ts&play_token=cWfTytA9Dx
+#EXTINF:-1 , JUNIOR MUSIC FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728964&extension=ts&play_token=JnZnuVTSnU
+#EXTINF:-1 , 24/7 AUTA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729039&extension=ts&play_token=emGQnBqdc2
+#EXTINF:-1 , 24/7 BAJKI MIX 90 - 1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728975&extension=ts&play_token=ML0bA4zIgl
+#EXTINF:-1 , 24/7 BAJKI MIX 90 - 2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728976&extension=ts&play_token=jO4gQbV6Hx
+#EXTINF:-1 , 24/7 BAJKI MIX 90 - 3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728977&extension=ts&play_token=6xpVPdFwpo
+#EXTINF:-1 , 24/7 BAŚNIE ANDERSENA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728978&extension=ts&play_token=7Gb2L4BORw
+#EXTINF:-1 , 24/7 BAŚNIE BRACI GRIMM
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728979&extension=ts&play_token=3Tu1RY7CMW
+#EXTINF:-1 , 24/7 BING 1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728980&extension=ts&play_token=jm0MCK1ymb
+#EXTINF:-1 , 24/7 BING 2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728981&extension=ts&play_token=CeWZVWMEav
+#EXTINF:-1 , 24/7 BLAZE I MEGAMASZYNY
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729069&extension=ts&play_token=Bt9X96TeIR
+#EXTINF:-1 , 24/7 BLUEY 1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728982&extension=ts&play_token=aO0Rzdl8v2
+#EXTINF:-1 , 24/7 BLUEY 2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728983&extension=ts&play_token=1Jhn0Zwuqy
+#EXTINF:-1 , 24/7 BLUEY 3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728984&extension=ts&play_token=GhYTT47LEv
+#EXTINF:-1 , 24/7 BOB BUDOWNICZY
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728985&extension=ts&play_token=8cBLIpoUC1
+#EXTINF:-1 , 24/7 BOLEK I LOLEK NA WAKACJACH
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728986&extension=ts&play_token=rD2vXF2TGM
+#EXTINF:-1 , 24/7 BYŁO SOBIE ŻYCIE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728989&extension=ts&play_token=jau0RJTJIh
+#EXTINF:-1 , 24/7 BYŁ SOBIE CZŁOWIEK
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728987&extension=ts&play_token=R3wgZIgjFA
+#EXTINF:-1 , 24/7 BYŁ SOBIE KOSMOS
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728988&extension=ts&play_token=CEBoLrZt1y
+#EXTINF:-1 , 24/7 CIEKAWSKI GEORGE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728990&extension=ts&play_token=vfDUrLluEI
+#EXTINF:-1 , 24/7 CLIFFORD - WIELKI CZERWONY PIES 1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729065&extension=ts&play_token=YcleOjgkz6
+#EXTINF:-1 , 24/7 CLIFFORD - WIELKI CZERWONY PIES 2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729066&extension=ts&play_token=FYS0aOfx1p
+#EXTINF:-1 , 24/7 COCOBI - ENG
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728991&extension=ts&play_token=3fGBr6IdbH
+#EXTINF:-1 , 24/7 COCOMELON ENG.
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728992&extension=ts&play_token=ViD71hYFJo
+#EXTINF:-1 , 24/7 DINOPOCIĄG
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728994&extension=ts&play_token=wo17rNS2hX
+#EXTINF:-1 , 24/7 DISNEY BAJKI
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728995&extension=ts&play_token=SGLw2YQ6vN
+#EXTINF:-1 , 24/7 DISNEY BAJKI 2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728996&extension=ts&play_token=5Q2aLSWSQZ
+#EXTINF:-1 , 24/7 DISNEY BAJKI 4
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728997&extension=ts&play_token=CSfxmZNzn5
+#EXTINF:-1 , 24/7 DORA POZNAJE ŚWIAT
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728998&extension=ts&play_token=sN3kNzNrwR
+#EXTINF:-1 , 24/7 DRAGON BALL
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1728999&extension=ts&play_token=texvQDY7h1
+#EXTINF:-1 ,EDD I EDDY - PL / ENG
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729000&extension=ts&play_token=iLqIznDbA7
+#EXTINF:-1 , 24/7 FLINTSTONOWIE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729001&extension=ts&play_token=XVPQGHLIdf
+#EXTINF:-1 , 24/7 GUMISIE 1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729002&extension=ts&play_token=sCOObhVHJV
+#EXTINF:-1 , 24/7 JAK WYTRESOWAĆ SMOKA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729003&extension=ts&play_token=ZW5s0LNWly
+#EXTINF:-1 , 24/7 JAŚ FASOLA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729004&extension=ts&play_token=FDWLZ9hesb
+#EXTINF:-1 , 24/7 JETSONOWIE 1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729005&extension=ts&play_token=BYD2EWP8IT
+#EXTINF:-1 , 24/7 JOHNNY BRAVO
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729006&extension=ts&play_token=PJJfqHzWh3
+#EXTINF:-1 , 24/7 KAPITAN TSUBASA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729007&extension=ts&play_token=VLS6KCtwT2
+#EXTINF:-1 , 24/7 KAZIO - EDUKACJA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729008&extension=ts&play_token=igQBI5oMeM
+#EXTINF:-1 , 24/7 KAZIO - PIOSENKI
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729009&extension=ts&play_token=3MFh3df3aj
+#EXTINF:-1 , 24/7 KAZIO - WARZYWA I OWOCE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729010&extension=ts&play_token=zWwb83V3VM
+#EXTINF:-1 , 24/7 KAZIO - ZWIERZĘTA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729011&extension=ts&play_token=SvbqEuNamD
+#EXTINF:-1 , 24/7 KICI KOCIA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729012&extension=ts&play_token=GRkX37O1YH
+#EXTINF:-1 , 24/7 KLINIKA DLA PLUSZAKÓW 2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729049&extension=ts&play_token=XYzu7AqivP
+#EXTINF:-1 , 24/7 KLUB PRZYJACIÓŁ MYSZKI MIKI (PL)
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729013&extension=ts&play_token=lRSVFmsIHE
+#EXTINF:-1 , 24/7 KLUB PRZYJACIÓŁ MYSZKI MIKI 2 (PL)
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729014&extension=ts&play_token=M2nSCzOe6I
+#EXTINF:-1 , 24/7 KOCI DOMEK GABI
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729015&extension=ts&play_token=6BwEvH3tAg
+#EXTINF:-1 , 24/7 KOT-O-CIAKI
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729016&extension=ts&play_token=5uqKf9IRu4
+#EXTINF:-1 , 24/7 KOZIOŁEK MATOŁEK
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729017&extension=ts&play_token=JwpTS4a44T
+#EXTINF:-1 , 24/7 KRECIK 1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729018&extension=ts&play_token=Oe6BMZMFes
+#EXTINF:-1 , 24/7 KRECIK 2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729019&extension=ts&play_token=QddcIsnFXe
+#EXTINF:-1 , 24/7 KROLIK BUGS I STRUS PEDZIWIATR PL
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729020&extension=ts&play_token=9BYvDUj3e3
+#EXTINF:-1 , 24/7 KUCYKI PONY
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729051&extension=ts&play_token=B3ShgGa8CJ
+#EXTINF:-1 , 24/7 KUNG FU PANDA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729021&extension=ts&play_token=cZ0Iuoi4Bb
+#EXTINF:-1 , 24/7 LILO I STICH
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729022&extension=ts&play_token=T1sx3X6tAZ
+#EXTINF:-1 , 24/7 LULANKI DO SNU
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729023&extension=ts&play_token=d3o7Ss9Mq9
+#EXTINF:-1 , 24/7 MAŁA CZARODZIEJKA TATTY
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729025&extension=ts&play_token=mc3vHS8psc
+#EXTINF:-1 , 24/7 MINIONKI
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729035&extension=ts&play_token=vUInehdI6y
+#EXTINF:-1 , 24/7 MIŚ USZATEK
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729027&extension=ts&play_token=y5uwUopYRH
+#EXTINF:-1 , 24/7 MUMINKI 1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729028&extension=ts&play_token=sFBnL3iY7T
+#EXTINF:-1 , 24/7 MY MELODY AND KUROMI
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729029&extension=ts&play_token=0k5zAUB53W
+#EXTINF:-1 , 24/7 NIESAMOWITY ŚWIAT GUMBALLA 1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729030&extension=ts&play_token=7Yws1ORPZl
+#EXTINF:-1 , 24/7 NOWE PRZYGODY KUBUSIA PUCHATKA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729031&extension=ts&play_token=qPxhLt2XpK
+#EXTINF:-1 , 24/7 PAN ROBÓTKA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729032&extension=ts&play_token=NLd1ov7ybG
+#EXTINF:-1 , 24/7 PINGWINY Z MADAGASKARU 1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729033&extension=ts&play_token=vFaeyj7f1V
+#EXTINF:-1 , 24/7 PIOSENKI PRZEDSZKOLAKA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729034&extension=ts&play_token=rupEXGIkZo
+#EXTINF:-1 , 24/7 POKEMON
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729036&extension=ts&play_token=ZfYG7Acx87
+#EXTINF:-1 , 24/7 PORWANIE BALTAZARA GĄBKI
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729037&extension=ts&play_token=rqdnwAG3E7
+#EXTINF:-1 , 24/7 POWER RANGERS ENG.
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729038&extension=ts&play_token=jDy3BbnIVQ
+#EXTINF:-1 , 24/7 PSI PATROL 1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729040&extension=ts&play_token=ciAq1zqAbS
+#EXTINF:-1 , 24/7 PSI PATROL 2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729041&extension=ts&play_token=xDzatfBCJB
+#EXTINF:-1 , 24/7 PSI PATROL 3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729042&extension=ts&play_token=IugDiPjRfw
+#EXTINF:-1 , 24/7 PSI PATROL 4
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729043&extension=ts&play_token=Gn64wyopfP
+#EXTINF:-1 , 24/7 PSI PATROL 5
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729044&extension=ts&play_token=A5CLotvmpA
+#EXTINF:-1 , 24/7 PSI PATROL 6
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729045&extension=ts&play_token=IX67oxbHMm
+#EXTINF:-1 , 24/7 PSI ZYWOT
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729050&extension=ts&play_token=Oz19b2dhl3
+#EXTINF:-1 , 24/7 PSZCZÓŁKA MAJA 1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729052&extension=ts&play_token=1wqVCCz3mJ
+#EXTINF:-1 , 24/7 PSZCZÓŁKA MAJA 2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729053&extension=ts&play_token=WZnCLbtEGl
+#EXTINF:-1 , 24/7 RUBBLE I JEGO EKIPA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729046&extension=ts&play_token=8GntLCXq2W
+#EXTINF:-1 , 24/7 RUBBLE I JEGO EKIPA 2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729047&extension=ts&play_token=WGOdEXEYMs
+#EXTINF:-1 , 24/7 RÓŻOWA PANTERA I PRZYJACIELE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729055&extension=ts&play_token=oXSytITxnL
+#EXTINF:-1 , 24/7 SCOOBY DOO 1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729056&extension=ts&play_token=MGlTxU3Fu0
+#EXTINF:-1 , 24/7 SCOOBY DOO 2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729057&extension=ts&play_token=7IuPR45QMh
+#EXTINF:-1 , 24/7 SCOOBY DOO 3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729058&extension=ts&play_token=YXKAZsWeeK
+#EXTINF:-1 , 24/7 SCOOBY DOO 4
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729059&extension=ts&play_token=lI83OvMVlF
+#EXTINF:-1 , 24/7 SHREK
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729061&extension=ts&play_token=7JzDcjrqbk
+#EXTINF:-1 , 24/7 SMERFY 1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729062&extension=ts&play_token=gFeSQ2hH3p
+#EXTINF:-1 , 24/7 SMERFY 2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729063&extension=ts&play_token=TpbKqFp8KR
+#EXTINF:-1 , 24/7 SMERFY 3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729064&extension=ts&play_token=eHciKYE7Wb
+#EXTINF:-1 , 24/7 SMRODEK I BRUDEK
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729073&extension=ts&play_token=e83fUNZJ9n
+#EXTINF:-1 , 24/7 SPONGEBOB KANCIASTOPORTY
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729067&extension=ts&play_token=mhwvFA8cNu
+#EXTINF:-1 , 24/7 STARY MACDONALD FARME MIAŁ - ALL LEANGUE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729068&extension=ts&play_token=2q0HzQgrVH
+#EXTINF:-1 , 24/7 STRAŻAK SAM 1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729070&extension=ts&play_token=FL8yqtVYK0
+#EXTINF:-1 , 24/7 STRAŻAK SAM 2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729071&extension=ts&play_token=y3ZSICIw3p
+#EXTINF:-1 , 24/7 STRUS PEDZIWIATR ENG
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729074&extension=ts&play_token=WqaG3fOmzR
+#EXTINF:-1 , 24/7 SUPER BABY LALA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729075&extension=ts&play_token=usMu6V2Fyq
+#EXTINF:-1 , 24/7 SWINKA PEPPA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729076&extension=ts&play_token=gjZlxl8YGc
+#EXTINF:-1 , 24/7 SZYBCY I WŚCIEKLI - WYŚCIGOWI AGENCI
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729077&extension=ts&play_token=ZKYHlpXkks
+#EXTINF:-1 , 24/7 TABALUGA 1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729078&extension=ts&play_token=zo54MtiAoG
+#EXTINF:-1 , 24/7 TABALUGA 2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729079&extension=ts&play_token=nhNyP0QidS
+#EXTINF:-1 , 24/7 TABALUGA 3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729080&extension=ts&play_token=Ftu9WkHXVp
+#EXTINF:-1 , 24/7 TELETUBISIE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729081&extension=ts&play_token=GxAnw9C8vq
+#EXTINF:-1 , 24/7 TOM I JERRY
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729082&extension=ts&play_token=dtVlrr5pw4
+#EXTINF:-1 , 24/7 TOM I JERRY 2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729083&extension=ts&play_token=ePTTHCrda9
+#EXTINF:-1 , 24/7 WILK I ZAJĄC
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729084&extension=ts&play_token=qmLDEhf7Oh
+#EXTINF:-1 , 24/7 ZACZAROWANY OŁÓWEK
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729085&extension=ts&play_token=XlWrH2C3mu
+#EXTINF:-1 , 24/7 ZWARIOWANE MELODIE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729086&extension=ts&play_token=GHiZbzXLYt
+#EXTINF:-1 , 24/7 ŚPIEWAJĄCE BRZDĄCE 1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729087&extension=ts&play_token=UKzirtfnIb
+#EXTINF:-1 , 24/7 ŚPIEWAJĄCE BRZDĄCE 2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729088&extension=ts&play_token=gDRKoBpZ13
+#EXTINF:-1 , CANAL+ NOW HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729145&extension=ts&play_token=aULCWkzSZA
+#EXTINF:-1 , CANAL+ SPORT FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729134&extension=ts&play_token=UavCBVxCoN
+#EXTINF:-1 , CANAL+ SPORT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729135&extension=ts&play_token=it3nDfNtF0
+#EXTINF:-1 , CANAL+ SPORT 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729136&extension=ts&play_token=u4Rq05LUUC
+#EXTINF:-1 , CANAL+ SPORT 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729137&extension=ts&play_token=0UrA5yR5RD
+#EXTINF:-1 , CANAL+ SPORT 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729138&extension=ts&play_token=ha8PBz1Y8D
+#EXTINF:-1 , CANAL+ SPORT 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729139&extension=ts&play_token=zGND8gJxeN
+#EXTINF:-1 , CANAL+ SPORT 4 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729140&extension=ts&play_token=6npKBmT2jK
+#EXTINF:-1 , CANAL+ SPORT 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729141&extension=ts&play_token=d8CxLlNRp6
+#EXTINF:-1 , CANAL+ SPORT 5 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729142&extension=ts&play_token=FNaXCgC983
+#EXTINF:-1 , CANAL+ SPORT 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729143&extension=ts&play_token=04YuY4Mj1H
+#EXTINF:-1 , CANAL+ EXTRA 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729146&extension=ts&play_token=ZQQmuricoE
+#EXTINF:-1 , CANAL+ EXTRA 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729147&extension=ts&play_token=DUJEvByKtV
+#EXTINF:-1 , CANAL+ EXTRA 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729148&extension=ts&play_token=14eI8JzoHb
+#EXTINF:-1 , CANAL+ EXTRA 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729149&extension=ts&play_token=7AGd2nRbIC
+#EXTINF:-1 , CANAL+ EXTRA 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729150&extension=ts&play_token=upWjSwmiQ0
+#EXTINF:-1 , CANAL+ EXTRA 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729151&extension=ts&play_token=mzkq9ioI4m
+#EXTINF:-1 , CANAL+ EXTRA 4 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729152&extension=ts&play_token=jbDmSGj5qb
+#EXTINF:-1 , CANAL+ EXTRA 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729153&extension=ts&play_token=pquRJesi9Q
+#EXTINF:-1 , CANAL+ EXTRA 5 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729154&extension=ts&play_token=sPTKWjTbTB
+#EXTINF:-1 , CANAL+ EXTRA 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729155&extension=ts&play_token=6LMYi7dDv0
+#EXTINF:-1 , CANAL+ EXTRA 6 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729156&extension=ts&play_token=XhNGSqfiU6
+#EXTINF:-1 , CANAL+ EXTRA 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729157&extension=ts&play_token=sXoApeuDIQ
+#EXTINF:-1 , CANAL+ EXTRA 7 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729158&extension=ts&play_token=qq5UjNF1PU
+#EXTINF:-1 , CANAL+ EXTRA 7 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729159&extension=ts&play_token=yJoAeV4g7i
+#EXTINF:-1 , CANAL+ EXTRA 8 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729160&extension=ts&play_token=oUzkMMMU3J
+#EXTINF:-1 , CANAL+ EXTRA 9 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729161&extension=ts&play_token=UckI8lm8Oy
+#EXTINF:-1 , POLSAT SPORT 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729162&extension=ts&play_token=AZZAOpfe04
+#EXTINF:-1 , POLSAT SPORT 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729163&extension=ts&play_token=jsSm4omYmM
+#EXTINF:-1 , POLSAT SPORT 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729164&extension=ts&play_token=1HtvLpuQZ3
+#EXTINF:-1 , POLSAT SPORT 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729165&extension=ts&play_token=Bxg9vRSXmY
+#EXTINF:-1 , POLSAT SPORT 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729168&extension=ts&play_token=E8wQqhn4zD
+#EXTINF:-1 , POLSAT SPORT 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729169&extension=ts&play_token=LXv02OqKUc
+#EXTINF:-1 , POLSAT SPORT Fight FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729166&extension=ts&play_token=Ou1TvbOZfg
+#EXTINF:-1 , POLSAT SPORT FIGHT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729167&extension=ts&play_token=V0l8R97o4w
+#EXTINF:-1 , POLSAT SPORT PREMIUM 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729171&extension=ts&play_token=a9mtKS0gN8
+#EXTINF:-1 , POLSAT SPORT PREMIUM 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729172&extension=ts&play_token=Q7sAyDHrFD
+#EXTINF:-1 , POLSAT SPORT PREMIUM 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729173&extension=ts&play_token=pHUmkC9Kuz
+#EXTINF:-1 , POLSAT SPORT EXTRA 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729174&extension=ts&play_token=pOvEIzV6Qk
+#EXTINF:-1 , POLSAT SPORT EXTRA 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729176&extension=ts&play_token=U1tngtV8Np
+#EXTINF:-1 , POLSAT SPORT EXTRA 3 FDH
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729178&extension=ts&play_token=ukuacpF3om
+#EXTINF:-1 , TVP SPORT FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729190&extension=ts&play_token=hxpxH6HVLl
+#EXTINF:-1 , TVP SPORT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729191&extension=ts&play_token=zoNYpfJ0i3
+#EXTINF:-1 , EUROSPORT 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729182&extension=ts&play_token=BZQkA3OJw6
+#EXTINF:-1 , EUROSPORT 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729183&extension=ts&play_token=ZT58smrZcU
+#EXTINF:-1 , EUROSPORT 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729184&extension=ts&play_token=INVXtDT3By
+#EXTINF:-1 , EUROSPORT 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729185&extension=ts&play_token=gzZ9ASFqgP
+#EXTINF:-1 , EUROSPORT 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729186&extension=ts&play_token=u4jLRNBeCc
+#EXTINF:-1 , SPORT KLUB FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729192&extension=ts&play_token=LMWPwhdPdE
+#EXTINF:-1 , SPORT KLUB HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729193&extension=ts&play_token=w64e2erdAF
+#EXTINF:-1 , FIGHTKLUB FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729198&extension=ts&play_token=k9vfrIstav
+#EXTINF:-1 , FIGHTBOX FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729196&extension=ts&play_token=C1nl7ftgus
+#EXTINF:-1 , FIGHTBOX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729197&extension=ts&play_token=13zuBy6m6B
+#EXTINF:-1 , GOLF ZONE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729200&extension=ts&play_token=5dNFi5RWlH
+#EXTINF:-1 , GOLF ZONE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729201&extension=ts&play_token=iG78cl6BgY
+#EXTINF:-1 , EXTREME SPORTS FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729194&extension=ts&play_token=93HY5DJlDC
+#EXTINF:-1 , EXTREME SPORTS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729195&extension=ts&play_token=1hpAgea2LK
+#EXTINF:-1 , GAMETOON FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729202&extension=ts&play_token=zJnm0kl48C
+#EXTINF:-1 , E-SPORT FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729203&extension=ts&play_token=RFOLLnaEto
+#EXTINF:-1 , ELEVEN SPORTS 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729221&extension=ts&play_token=40JBx1q3MY
+#EXTINF:-1 , ELEVEN SPORTS 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729222&extension=ts&play_token=lh1ibC0iHL
+#EXTINF:-1 , ELEVEN SPORTS 1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729223&extension=ts&play_token=KvwkAzUvZo
+#EXTINF:-1 , ELEVEN SPORTS 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729224&extension=ts&play_token=p9GauGwGZT
+#EXTINF:-1 , ELEVEN SPORTS 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729225&extension=ts&play_token=SLpormNxbR
+#EXTINF:-1 , ELEVEN SPORTS 2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729226&extension=ts&play_token=MnsVt7K8XQ
+#EXTINF:-1 , ELEVEN SPORTS 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729228&extension=ts&play_token=1klGGrIE0c
+#EXTINF:-1 , ELEVEN SPORTS 3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729229&extension=ts&play_token=sAl4XUTZxi
+#EXTINF:-1 , ELEVEN SPORTS 4 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729230&extension=ts&play_token=bNqgleF82y
+#EXTINF:-1 , ELEVEN SPORTS 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729231&extension=ts&play_token=z7V1NYy6Cj
+#EXTINF:-1 , ELEVEN SPORTS 4
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729232&extension=ts&play_token=EGCNjnFPfQ
+#EXTINF:-1 , TVN BRZYDULA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729249&extension=ts&play_token=OdxCaxsrP6
+#EXTINF:-1 , TVN CZAS NA ŚLUB
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729248&extension=ts&play_token=246BEIcITa
+#EXTINF:-1 , TVN KULINARNE PODRÓZE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729251&extension=ts&play_token=KUjExPj3cx
+#EXTINF:-1 , TVN KULTOWE SERIALE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729252&extension=ts&play_token=FlfwCaSAhz
+#EXTINF:-1 , TVN MILIONERZY
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729253&extension=ts&play_token=r6ACMCJHUL
+#EXTINF:-1 , TVN MOMENTY PRAWDY
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729254&extension=ts&play_token=w6x6Jf4zvK
+#EXTINF:-1 , TVN MOTO
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729255&extension=ts&play_token=AGViPOe92P
+#EXTINF:-1 , TVN PATROL
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729256&extension=ts&play_token=xi18h2V4UI
+#EXTINF:-1 , TVN PORA NA SHOW
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729257&extension=ts&play_token=0fFRVhG6eF
+#EXTINF:-1 , TVN PRAWO I ZYCIE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729258&extension=ts&play_token=mFIwJshdpd
+#EXTINF:-1 , TVN RAJSKA MILOSC
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729259&extension=ts&play_token=ESVHuICA9v
+#EXTINF:-1 , TVN REWOLUCJE W KUCHNI
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729260&extension=ts&play_token=Mwnj5CPykx
+#EXTINF:-1 , TVN SERIALE O KOBIETACH
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729261&extension=ts&play_token=Kn1E6hFsNn
+#EXTINF:-1 , TVN SZKOLA ZYCIA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729262&extension=ts&play_token=tNGQtoKShG
+#EXTINF:-1 , TVN SZPITALNE HISTORIE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729263&extension=ts&play_token=rXSFEHRNeF
+#EXTINF:-1 , TVN TALK SHOW
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729264&extension=ts&play_token=tDzMBISERd
+#EXTINF:-1 , TVN TELENOWELE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729265&extension=ts&play_token=1hKuylNmjc
+#EXTINF:-1 , TVN USTERKA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729266&extension=ts&play_token=BTlDyMpNug
+#EXTINF:-1 , TVN W DOMU
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729267&extension=ts&play_token=fI2RSDOvm7
+#EXTINF:-1 , TVN ZYCIE JAK W BAJCE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729268&extension=ts&play_token=rRc2PX61KJ
+#EXTINF:-1 , TVP FAST BARWY SZCZĘŚCIA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729281&extension=ts&play_token=kqcTWt1oLr
+#EXTINF:-1 , TVP FAST KLAN
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729282&extension=ts&play_token=SbOJ5Eb3Ge
+#EXTINF:-1 , TVP FAST KRYMINAŁY
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729283&extension=ts&play_token=s1VJIOzggK
+#EXTINF:-1 , TVP FAST MIŁOŚĆ
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729284&extension=ts&play_token=8lpLBVIquP
+#EXTINF:-1 , TVP FAST NA DOBRE I NA ZLE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729280&extension=ts&play_token=rVQIkj4oAh
+#EXTINF:-1 , MTV POLSKA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729285&extension=ts&play_token=L5LADiPPi8
+#EXTINF:-1 , VIVA CLASSICS
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729287&extension=ts&play_token=UiKYsPvVNP
+#EXTINF:-1 , VIVA RUSSIA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729335&extension=ts&play_token=xHnWDQkRnz
+#EXTINF:-1 , MUSIC BOX
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729288&extension=ts&play_token=kAfbjw6B8q
+#EXTINF:-1 , MUSIC BOX CLASSIC
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729289&extension=ts&play_token=Cm4xd4Twid
+#EXTINF:-1 , 4FUN TV
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729290&extension=ts&play_token=BAtNlXdGE4
+#EXTINF:-1 , 4FUN DANCE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729291&extension=ts&play_token=IXsLO5ib9t
+#EXTINF:-1 , 4FUN KIDS
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729292&extension=ts&play_token=cmAcGLeTpS
+#EXTINF:-1 , ESKA TV
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729293&extension=ts&play_token=oZXZHJL2Tu
+#EXTINF:-1 , ESKA TV EXTRA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729294&extension=ts&play_token=FigU4xDPgl
+#EXTINF:-1 , ESKA ROCK TV
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729296&extension=ts&play_token=zLwRnQ0CX4
+#EXTINF:-1 , ESKA ROCK
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729295&extension=ts&play_token=rOOqsRsK4M
+#EXTINF:-1 , KINO POLSKA MUZYKA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729297&extension=ts&play_token=kqrtuzBr4T
+#EXTINF:-1 , VOX MUSIC TV
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729298&extension=ts&play_token=vu9m88E1yH
+#EXTINF:-1 , POLSAT MUSIC
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729299&extension=ts&play_token=lj6zF4vwK5
+#EXTINF:-1 , POLO TV
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729304&extension=ts&play_token=1fb3F6kVQa
+#EXTINF:-1 , DISCO POLO MUSIC
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729305&extension=ts&play_token=BbIT8Y87UI
+#EXTINF:-1 , POWER TV
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729300&extension=ts&play_token=su4EGefNDN
+#EXTINF:-1 , NUTA TV
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729302&extension=ts&play_token=waRIobQkRu
+#EXTINF:-1 , NUTA GOLD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729303&extension=ts&play_token=e7u9j5bHgy
+#EXTINF:-1 , VEVO COUNTRY
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729310&extension=ts&play_token=r0E7WRSOBr
+#EXTINF:-1 , VEVO LATINOS
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729313&extension=ts&play_token=AU4q9jim72
+#EXTINF:-1 , VEVO MEXICANO
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729314&extension=ts&play_token=2RU8Tqi3OP
+#EXTINF:-1 , VEVO POP
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729311&extension=ts&play_token=1wuxy4O0zU
+#EXTINF:-1 , VEVO R&B
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729312&extension=ts&play_token=n7ckWavp9c
+#EXTINF:-1 , FIRST MUSIC 2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729331&extension=ts&play_token=OoIGrjLY63
+#EXTINF:-1 , KRONEHIT TV
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729334&extension=ts&play_token=T7M2YyHuNT
+#EXTINF:-1 , M2O TV
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729308&extension=ts&play_token=EoqWWGuLRP
+#EXTINF:-1 , MEZZO
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729332&extension=ts&play_token=YaLzFq4OPf
+#EXTINF:-1 , MIXTAPE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729306&extension=ts&play_token=qu9nT2vpOv
+#EXTINF:-1 , MOOZ DANCE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729333&extension=ts&play_token=nJpVhWxHjS
+#EXTINF:-1 , STARS TV
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729301&extension=ts&play_token=1BeqJQ9u08
+#EXTINF:-1 , SZLAGIER TV
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729307&extension=ts&play_token=LLZvuXefLQ
+#EXTINF:-1 , TRACE URBAN
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729309&extension=ts&play_token=u83Qc8C5EZ
+#EXTINF:-1 , CLUBBING TV
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729319&extension=ts&play_token=XIkBgJPcET
+#EXTINF:-1 , DANCE TV - BEST OF DANCE TV
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729320&extension=ts&play_token=fyvb6H0jp5
+#EXTINF:-1 , DANCE TV - DEEP HOUSE DISTRICT
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729321&extension=ts&play_token=AJhAV4IwZT
+#EXTINF:-1 , DANCE TV - TECH HOUSE TERRACE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729323&extension=ts&play_token=DAzmR7pKUp
+#EXTINF:-1 , DANCE TV - TECHNO WAREHOUSE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729322&extension=ts&play_token=6MDD9Ju6TP
+#EXTINF:-1 , DANCE TV 5
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729324&extension=ts&play_token=pG4JaOTrmT
+#EXTINF:-1 , FIRST MUSIC
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729330&extension=ts&play_token=6lUxVqeBm6
+#EXTINF:-1 , TV REGIONALNA ZARY
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729337&extension=ts&play_token=hDcACsRbBK
+#EXTINF:-1 , TV REGIONALNA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729349&extension=ts&play_token=N1oJNarJpL
+#EXTINF:-1 , SFERA TV
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729338&extension=ts&play_token=zR2vKnbZjD
+#EXTINF:-1 , LUBELSKA TV
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729339&extension=ts&play_token=ty2YmaDDhx
+#EXTINF:-1 , TVK STELLA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729340&extension=ts&play_token=mCiqSGkQgg
+#EXTINF:-1 , TV ASTA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729342&extension=ts&play_token=3T4ReQLArH
+#EXTINF:-1 , TVS
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729343&extension=ts&play_token=joRRrNUqsR
+#EXTINF:-1 , TWOJA TV
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729344&extension=ts&play_token=z38fYkb3F4
+#EXTINF:-1 , TV JASLO
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729346&extension=ts&play_token=JgoxtOsO0n
+#EXTINF:-1 , TV KUJAWY
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729347&extension=ts&play_token=0aRVkIh27g
+#EXTINF:-1 , TV TORUN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729350&extension=ts&play_token=FSTVifSDvj
+#EXTINF:-1 , TVT
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729351&extension=ts&play_token=879ChnUp85
+#EXTINF:-1 , WTK
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729353&extension=ts&play_token=T4xaf09kEN
+#EXTINF:-1 , TVP WILNO
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729354&extension=ts&play_token=o25j7bejSy
+#EXTINF:-1 , TVP3 BIALYSTOK
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729355&extension=ts&play_token=jum7WGkAQ3
+#EXTINF:-1 , TVP3 BYDGOSZCZ
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729356&extension=ts&play_token=BByuKMiLCZ
+#EXTINF:-1 , TVP3 GDANSK
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729357&extension=ts&play_token=kBgLzZAv2Y
+#EXTINF:-1 , TVP3 GORZOW WIELKOPOLSKI
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729358&extension=ts&play_token=wFA5XqoWWi
+#EXTINF:-1 , TVP3 KATOWICE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729359&extension=ts&play_token=njLgIDtJvn
+#EXTINF:-1 , TVP3 KIELCE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729360&extension=ts&play_token=sRQm4whCak
+#EXTINF:-1 , TVP3 KRAKOW
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729361&extension=ts&play_token=zHQqZu1kA4
+#EXTINF:-1 , TVP3 LODZ
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729362&extension=ts&play_token=EdCx3JE2ys
+#EXTINF:-1 , TVP3 LUBLIN
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729363&extension=ts&play_token=Qd2AOB9VcL
+#EXTINF:-1 , TVP3 OLSZTYN
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729364&extension=ts&play_token=rAtcd9RPjf
+#EXTINF:-1 , TVP3 OPOLE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729365&extension=ts&play_token=sQYtotoRFA
+#EXTINF:-1 , TVP3 POZNAN
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729366&extension=ts&play_token=7fFf4ketmg
+#EXTINF:-1 , TVP3 RZESZOW
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729367&extension=ts&play_token=DXjP66gbp2
+#EXTINF:-1 , TVP3 SZCZECIN
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729368&extension=ts&play_token=XMtzMS4xQS
+#EXTINF:-1 , TVP3 WARSZAWA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729369&extension=ts&play_token=J4mCJTShjW
+#EXTINF:-1 , TVP3 WROCLAW
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729370&extension=ts&play_token=6QHrgzLQTr
+#EXTINF:-1 , 24/7 B.SZEMRAJ - PRZEPISY 1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729375&extension=ts&play_token=wsGdt1YShN
+#EXTINF:-1 , 24/7 B.SZEMRAJ - PRZEPISY 2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729376&extension=ts&play_token=Ti6qq2hAx7
+#EXTINF:-1 , 24/7 B.SZEMRAJ - PRZEPISY 3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729377&extension=ts&play_token=FtwabALksN
+#EXTINF:-1 , 24/7 M.WRZOSEK - PRZEPISY 1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729380&extension=ts&play_token=lCJY0oMhyZ
+#EXTINF:-1 , 24/7 M.WRZOSEK - PRZEPISY 2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729381&extension=ts&play_token=mnyelIFm1v
+#EXTINF:-1 , 24/7 M.WRZOSEK - PORADY 1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729383&extension=ts&play_token=ASosrMJ5xJ
+#EXTINF:-1 , 24/7 M.WRZOSEK - CAŁA PRAWDA O......
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729382&extension=ts&play_token=Z9MoRQWPvG
+#EXTINF:-1 , 24/7 M.WRZOSEK - IDZIEMY NA ZAKUPY 1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729378&extension=ts&play_token=1VHI2aQvkA
+#EXTINF:-1 , 24/7 M.WRZOSEK - IDZIEMY NA ZAKUPY 2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729379&extension=ts&play_token=WmohQy90lf
+#EXTINF:-1 , 24/7 M.WRZOSEK - SZYBKI TRENING W DOMU
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729384&extension=ts&play_token=SZz89v3lzN
+#EXTINF:-1 , 24/7 M.SKOCZYLAS - POPARTE BADANIAMI 1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729385&extension=ts&play_token=bLUnpLbHmu
+#EXTINF:-1 , 24/7 CENTRUM RESPO - CO KUPOWAĆ A CO NIE !!!
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:34:67:86&stream=1729386&extension=ts&play_token=6jCeXTbqRz
